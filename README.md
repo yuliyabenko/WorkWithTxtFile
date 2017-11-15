@@ -8,4 +8,4 @@ This is my realization of the task:
 
 I used MySQL Workbench to create data base and table "statistic", in which I write data from the program. Table "statistic" looks like that:
 
-![](https://github.com/yuliyabenko/WorkWithTxtFile/blob/master/src/statistic.png)
+![](https://github.com/yuliyabenko/WorkWithTxtFile/blob/master/statistic.JPG)
